@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **The term "bug" to describe a software problem originated in 1947 when a moth caused a malfunction in the Harvard Mark II computer. The bug was literally a bug stuck in the machine.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My social media:</h3>
 <p align="left">
 <a href="https://fb.com/bjarte oliversen løken" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bjarte oliversen løken" height="30" width="40" /></a>
 <a href="https://instagram.com/bjarteoliversen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bjarteoliversen" height="30" width="40" /></a>
